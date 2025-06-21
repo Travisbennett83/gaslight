@@ -261,6 +261,20 @@ h2 {
 .booking-form button:hover {
   background: #e73370;
 }
+.top_of-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  bottom: 20px;
+  right: 20px;
+
+  
+  border: none;
+  padding: 10px 15px;
+  border-radius: 50%;
+  cursor: pointer;
+  
+}
 
 /* ============================================
    FOOTER
