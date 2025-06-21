@@ -83,7 +83,7 @@ body {
 header {
   position: relative;
   background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-              url('/assets/background%201.jpg') no-repeat center center/cover;
+              url('/assets/background1.jpg') no-repeat center center/cover;
   color: white;
   text-align: center;
   padding: 6rem 1rem;
